@@ -7,7 +7,6 @@ public class Main {
 
         emp.printAll();
 
-        // Supervisor changes the employee's salary
         sup.changeSalary(emp, 3500.0);
 
         System.out.println("\nFinal Employee Details:");
