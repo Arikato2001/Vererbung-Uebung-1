@@ -26,4 +26,4 @@ Technologien im Einsatz: Java
 [MIT](https://choosealicense.com/licenses/mit/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[product-screenshot]:program.png
+[product-screenshot]:code.png
