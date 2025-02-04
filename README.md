@@ -21,9 +21,15 @@ Technologien im Einsatz: Java
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Screenshots
+
+[![Screen Shot][product-screenshot]](https://example.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[product-screenshot]:src/code.png
+[product-screenshot]:src/Code.png
