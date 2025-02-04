@@ -17,8 +17,7 @@ git checkout origin/master
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Verwendung
-Technologien im Einsatz:
-[![Java][java.com]][java-url]
+Technologien im Einsatz: Java
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -27,4 +26,4 @@ Technologien im Einsatz:
 [MIT](https://choosealicense.com/licenses/mit/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[product-screenshot]: program.png
+[product-screenshot]:program.png
