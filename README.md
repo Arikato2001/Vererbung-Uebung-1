@@ -21,7 +21,7 @@ Technologien im Einsatz: Java
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Screenshots
+## Screenshot
 
 [![Screen Shot][product-screenshot]](https://example.com)
 
