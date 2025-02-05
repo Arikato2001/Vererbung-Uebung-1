@@ -1,4 +1,4 @@
-# Übung: Vererbung in Java
+# Übung: Vererbung in Java (LBS)
 
 Autor: Gorelishvili Sandro <br>
 Klasse: 2b APC
